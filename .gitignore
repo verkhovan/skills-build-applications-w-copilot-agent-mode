@@ -2,6 +2,7 @@
 
 # Virtual Environment
 venv
+octofit-tracker/backend/venv/
 
 # octofit tracker app
 # octfit-tracker
@@ -31,3 +32,6 @@ yarn-error.log*
 # Python files
 *.pyc
 __pycache__/
+
+
+**/octofit-mongo-data/**
